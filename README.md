@@ -2,11 +2,8 @@
 
 Welcome to my profile. He/Him.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MagnusMat&theme=github-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MagnusMat)](https://git.io/streak-stats)
-
 ## Contact
 
 - Reddit: [@Magnus_Mat](https://www.reddit.com/user/Magnus_Mat/)
-- Twitter: [@Magnus_Mat](https://twitter.com/Magnus_Mat)
+- Mastodon: [@magnus_mat@mastodon.world](https://mastodon.world/@magnus_mat)
 - LinkedIn: [Magnus Mathiesen](https://www.linkedin.com/in/magnus-mathiesen-it)
