@@ -1,6 +1,6 @@
 # Hi There 👋
 
-Welcome to my profile. He/Him.
+Welcome to my profile.
 
 ## Contact
 
